@@ -1,7 +1,8 @@
 repo_name: ry-animal/hardhat-image
 report_id: 1d71bc70884dde41f425d073091934d8
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T16:49:28+00:00'
+timestamp: '2024-01-04T15:06:20+00:00'
 requested_by: ry-animal
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/ry-animal/hardhat-image
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ry-animal/hardhat-image
   detection_source: Repo Metadata
 - name: solidity
   description: How people build software
@@ -32,4 +35,5 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4959/1__IS8pZzkhvd6kUbSFpSgag.png
+  detection_source_url: https://github.com/ry-animal/hardhat-image
   detection_source: Repo Metadata
